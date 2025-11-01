@@ -23,7 +23,7 @@ h1 {
 
 /* form layout */
 form {
-    max-width: 760px;
+    max-width: 1000px;
     margin: 0 auto 24px;
     background-color: white;
     padding: 24px;
@@ -148,4 +148,5 @@ tbody tr:nth-child(even) {
         font-size: 13px;
     }
 }
+
 /* ...existing code... */
